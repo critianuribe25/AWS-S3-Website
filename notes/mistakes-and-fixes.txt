@@ -1,0 +1,5 @@
+Error: Access Denied when loading website  
+Fix: Added correct bucket policy.
+
+Error: 404 Not Found  
+Fix: File must be named exactly "index.html" for default page.
