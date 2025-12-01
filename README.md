@@ -83,4 +83,20 @@ I configure an S3 bucket for public access and upload simple website files.
 ## 🧠 What I Learned
 - How to serve static content directly from S3  
 - How bucket policies and permissions work  
-- Best practices for public website hosting on AWS  
+- Best practices for public website hosting on AWS
+
+---
+
+## 🛠 Skills Demonstrated
+- Amazon S3
+- Static website hosting
+- Bucket permissions & policies
+- Public access configuration
+- HTML/CSS basics
+- Cloud storage management
+
+---
+
+**Status:** In Progress  
+**Expected Completion:** December 23, 2025
+
