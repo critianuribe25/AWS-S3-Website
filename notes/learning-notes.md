@@ -1,3 +1,0 @@
-- S3 buckets are private by default.
-- Static hosting requires enabling the feature AND adding a public policy.
-- The website endpoint is different from the bucket URL.
